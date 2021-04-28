@@ -10,7 +10,7 @@ At this project firstly you will be see a initial page with 2 options as login a
   - After login if you have admin permission u will be see all users as a card list. If u have a user permission u will see only your informations. And you are able to update your informations.
 
 ```diff
-  - # WARNINGS  
+- # WARNINGS  
   - Don't forget to change links ip adress as your default ip adress
   - Put sql files at your localhost adress.
   - For windows don't forget to start xampp apache server.
